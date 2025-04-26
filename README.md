@@ -12,7 +12,7 @@ Je suis un explorateur du code, un passionné de technologie et un architecte de
 - L'apprentissage des meilleures pratiques en développement logiciel.
 - L'exploration de nouvelles technologies et frameworks.
 - La création de projets qui allient créativité et fonctionnalité.
-- La programmation avec une architecture solide via des concepts de programmation orientés objet 
+- La programmation avec une architecture solide via des concepts de programmation orientés objet.
 
 ## 🎯 Mon objectif :
 Transformer des idées abstraites en solutions concrètes et élégantes. J'aime relever des défis et collaborer avec d'autres passionnés pour créer des expériences mémorables.
