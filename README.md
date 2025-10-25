@@ -4,7 +4,7 @@ Développeur passionné qui aime créer des trucs qui fonctionnent bien et réso
 
 Je m'adapte rapidement aux nouveaux langages et technologies selon les besoins du projet. J'aime apprendre et expérimenter avec différents outils.
 
-**Langages** : C++ • C# • C • Java • Python • JavaScript • HTML/CSS • Rust • Dart
+**Langages** : C++ • C# • C • Java • Python • JavaScript • HTML/CSS • Rust • Dart • TypeScript • assembleur 
 
 ## Compétences
 
