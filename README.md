@@ -1,5 +1,3 @@
-![Banner](bannière.png)
-
 Développeur passionné qui aime créer des trucs qui fonctionnent bien et résoudre des problèmes concrets. Je travaille sur des projets variés, du backend performant aux interfaces web sympas, en passant par des expérimentations avec des moteurs de jeu et des émulateurs.
 
 ## Stack
@@ -26,6 +24,15 @@ Je m'adapte rapidement aux nouveaux langages et technologies selon les besoins d
 - Développement web et interfaces utilisateur 
 - Programmation bas niveau
 - Graphisme et rendu 3D
+
+## Outils et technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![SDL2](https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white)
+
 
 ## LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/zyphorah?theme=dark&ext=heatmap)](https://leetcode.com/u/zyphorah/)
