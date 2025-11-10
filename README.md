@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/qh8VmlA.png)
+![Banner](pexels-brett-sayles-1550135.jpg)
 
 Développeur passionné qui aime créer des trucs qui fonctionnent bien et résoudre des problèmes concrets. Je travaille sur des projets variés, du backend performant aux interfaces web sympas, en passant par des expérimentations avec des moteurs de jeu et des émulateurs.
 
