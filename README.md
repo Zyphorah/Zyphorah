@@ -18,6 +18,8 @@ Je m'adapte rapidement aux nouveaux langages et technologies selon les besoins d
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Assembleur](https://img.shields.io/badge/Assembleur-525252?style=for-the-badge&logo=amd&logoColor=white)
 
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphorah&layout=compact&theme=radical)
+
 ## Compétences
 - Architecture logicielle et design patterns (Décorateur, Adaptateur, Façade ...)
 - Sécurité informatique et correction de vulnérabilités
@@ -36,4 +38,11 @@ Je m'adapte rapidement aux nouveaux langages et technologies selon les besoins d
 
 ## LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/zyphorah?theme=dark&ext=heatmap)](https://leetcode.com/u/zyphorah/)
+
+## Contact 
+
+Vous pouvez me contacter via :
+
+- **Email** : zyphorah.zen@gmail.com
+- **Discord** : Pseudo : Zyphorahh
 
