@@ -15,4 +15,5 @@ Je m'adapte rapidement aux nouveaux langages et technologies selon les besoins d
 - Programmation bas niveau
 - Graphisme et rendu 3D
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/zyphorah)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/zyphorah?theme=dark&ext=heatmap)](https://leetcode.com/u/zyphorah/)
+
