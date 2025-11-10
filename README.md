@@ -1,4 +1,4 @@
-![Banner](Capture d’écran du 2025-10-28 17-15-35.png)
+![Banner](bannière.png)
 
 Développeur passionné qui aime créer des trucs qui fonctionnent bien et résoudre des problèmes concrets. Je travaille sur des projets variés, du backend performant aux interfaces web sympas, en passant par des expérimentations avec des moteurs de jeu et des émulateurs.
 
