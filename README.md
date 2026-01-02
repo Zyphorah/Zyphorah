@@ -1,10 +1,10 @@
-Développeur passionné qui aime créer des trucs qui fonctionnent bien et résoudre des problèmes concrets. Je travaille sur des projets variés, du backend performant aux interfaces web sympas, en passant par des expérimentations avec des moteurs de jeu et des émulateurs.
+Passionate developer who loves creating things that work well and solving real-world problems. I work on a variety of projects, from high-performance backend systems to cool web interfaces, as well as experimenting with game engines and emulators.
 
 ## Stack
 
-Je m'adapte rapidement aux nouveaux langages et technologies selon les besoins du projet. J'aime apprendre et expérimenter avec différents outils.
+I quickly adapt to new languages and technologies according to project needs. I enjoy learning and experimenting with different tools.
 
-### 🧠 Langages
+### 🧠 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -16,18 +16,18 @@ Je m'adapte rapidement aux nouveaux langages et technologies selon les besoins d
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Assembleur](https://img.shields.io/badge/Assembleur-525252?style=for-the-badge&logo=amd&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphorah&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphorah&layout=compact&theme=radical)
 
-## Compétences
-- Architecture logicielle et design patterns (Décorateur, Adaptateur, Façade ...)
-- Sécurité informatique et correction de vulnérabilités
-- Développement web et interfaces utilisateur 
-- Programmation bas niveau
-- Graphisme et rendu 3D
+## Skills
+- Software architecture and design patterns (Decorator, Adapter, Facade ...)
+- Cybersecurity and vulnerability remediation
+- Web development and user interfaces
+- Low-level programming
+- Graphics and 3D rendering
 
-## Outils et technologies
+## Tools and Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -35,14 +35,12 @@ Je m'adapte rapidement aux nouveaux langages et technologies selon les besoins d
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white)
 
-
 ## LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/zyphorah?theme=dark&ext=heatmap)](https://leetcode.com/u/zyphorah/)
 
-## Contact 
+## Contact
 
-Vous pouvez me contacter via :
+You can contact me via:
 
-- **Email** : zyphorah.zen@gmail.com
-- **Discord** : Pseudo : Zyphorahh
-
+- **Email**: zyphorah.zen@gmail.com
+- **Discord**: Username: Zyphorahh
