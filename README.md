@@ -18,7 +18,7 @@ I quickly adapt to new languages and technologies according to project needs. I 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphorah&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zyphorah&layout=compact&theme=radical)
 
 ## Skills
 - Software architecture and design patterns (Decorator, Adapter, Facade ...)
