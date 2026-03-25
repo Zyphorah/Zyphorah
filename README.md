@@ -38,9 +38,6 @@ Language-agnostic approach driven by strict project constraints (performance, me
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white)
 
-## Algorithmic Proficiency
-[![LeetCode Stats](https://leetcard.jacoblin.cool/zyphorah?theme=dark&ext=heatmap)](https://leetcode.com/u/zyphorah/)
-
 ## Contact
 
 - **Email**: zyphorah.zen@gmail.com
