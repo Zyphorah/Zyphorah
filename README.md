@@ -96,5 +96,5 @@ Language-agnostic approach driven by strict project constraints (performance, me
 
 <p align="left">
   <b>Email:</b> <a href="mailto:zyphorah.zen@gmail.com">zyphorah.zen@gmail.com</a><br>
-  <b>Discord:</b> <code>Zyphorahh_</code>
+  <b>Discord:</b> <code>Zyphorahh</code>
 </p>
