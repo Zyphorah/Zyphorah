@@ -1,26 +1,72 @@
+<div align="center">
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90">
+
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raphael Arseneault</h1>
+
+<h3>Systems Engineer | High-Performance C++ | Compiler Design</h3>
+
+<p>
+  Specializing in <b>Data-Oriented Design (DOD)</b> and <b>ECS architectures</b> for low-level systems.<br>
+  Architect of <b>Prysma</b>, a high-performance compiler ecosystem leveraging LLVM.<br>
+  Dedicated to building robust, cache-efficient software and advancing compiler technology.
+</p>
+
+<p>
+  <b>Expertise:</b> LLVM Infrastructure • Memory Optimization • C++ Systems Programming • Static Analysis
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br><br>
+
+</div>
+
 # Software Engineer | Systems & Architecture
 
-Software Engineer specializing in systems programming, compiler infrastructure, and high-performance backend architectures. My technical scope ranges from low-level hardware abstraction (emulators, virtual machines) to real-time 3D rendering engines and robust system design. 
+> Software Engineer specializing in systems programming, compiler infrastructure, and high-performance backend architectures. My technical scope ranges from low-level hardware abstraction (emulators, virtual machines) to real-time 3D rendering engines and robust system design. 
+
+<br>
 
 ## Technical Stack
 
 Language-agnostic approach driven by strict project constraints (performance, memory safety, concurrency). 
 
-### 🧠 Core Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zyphorah&layout=compact&theme=radical)
+### 🧠 Core Languages
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>[ 0x01 ] LOW-LEVEL & SYSTEMS</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cpp,c,rust,asm" /><br><br>
+      <code>C++</code> &nbsp; <code>C</code> &nbsp; <code>Rust</code> &nbsp; <code>Assembly</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>[ 0x02 ] MANAGED & LOGIC</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cs,java,py,dart" /><br><br>
+      <code>C#</code> &nbsp; <code>Java</code> &nbsp; <code>Python</code> &nbsp; <code>Dart</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br><b>[ 0x03 ] WEB & INTERFACE</b><br><br>
+      <img src="https://skillicons.dev/icons?i=ts,js,html,css" /><br><br>
+      <code>TypeScript</code> &nbsp; <code>JavaScript</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code>
+    </td>
+    <td width="50%" valign="top">
+      <br><b>[ 0x04 ] ANALYTICS</b><br><br>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zyphorah&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00599C" width="100%">
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## Engineering Skills
 
@@ -30,15 +76,25 @@ Language-agnostic approach driven by strict project constraints (performance, me
 - **Graphics & Rendering:** Hardware-accelerated graphics pipelines and engine development.
 - **Full-Stack Integration:** Scalable backend systems and responsive web interfaces.
 
+<br>
+
 ## Infrastructure & Tooling
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![SDL2](https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white)
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height="48">
+  <img src="https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white" height="48">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## Contact
 
-- **Email**: zyphorah.zen@gmail.com
-- **Discord**: Zyphorahh
+<p align="left">
+  <b>Email:</b> <a href="mailto:zyphorah.zen@gmail.com">zyphorah.zen@gmail.com</a><br>
+  <b>Discord:</b> <code>Zyphorahh_</code>
+</p>
